@@ -1,0 +1,28 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.EjemploFragment20232" parent="Theme.Material3.DayNight">
+        <item name="colorPrimary">@color/blue</item>
+    </style>
+
+    <style name="Theme.EjemploFragment20232" parent="Base.Theme.EjemploFragment20232" >
+        <item name="colorPrimary">@color/blue</item>
+    </style>
+
+    <style name="Theme.EjemploFragment20232.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="colorPrimary">@color/blue</item>
+    </style>
+
+    <style name="Theme.EjemploFragment20232.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" >
+        <item name="colorPrimary">@color/blue</item>
+    </style>
+
+    <style name="Theme.EjemploFragment20232.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" >
+        <item name="colorPrimary">@color/blue</item>
+    </style>
+
+    <style name="SplashTheme" parent="Theme.EjemploFragment20232">
+        <item name="android:windowBackground">@drawable/splas_screen</item>
+    </style>
+</resources>

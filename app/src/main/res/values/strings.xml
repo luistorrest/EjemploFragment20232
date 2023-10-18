@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">SuperHero Fragments</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="batman_date">Batman</string>
+    <string name="batman_alias">Bruce Wayne</string>
+    <string name="batman_powers">Exceptional martial artist, combat strategy, inexhaustible wealth, brilliant deductive skill, advanced technology.</string>
+    <string name="flash_date">Flash</string>
+    <string name="fash_alias">Barry Allen</string>
+    <string name="flash_powers">Super speed, intangibility, superhuman agility, time travel, creates and controls lightning, multiversal knowledge.</string>
+    <string name="superman_date">Superman</string>
+    <string name="superman_alias">Clark Joseph Kent</string>
+    <string name="superman_powers">Super strength, flight, invulnerability, super speed, heat vision, freeze breath, x-ray vision, superhuman hearing, healing factor.</string>
+    <string name="wonderwoman_date">Wonderwoman</string>
+    <string name="wonderwoman_alias">Diana Prince</string>
+    <string name="Wonderwoman_powers">Super strength, invulnerability, flight, combat skill, combat strategy, superhuman agility, healing factor, magic weaponry.</string>
+    <string name="flash_alias">Barry Allen</string>
+    <string name="title_activity_botton_navigation">BottonNavigationActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_navigation_drawer">NavigationDrawerActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="title_activity_tabbed">TabbedActivity</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="superheroes">Superheroes</string>
+    <string name="head_text">Superhero Fragments</string>
+    <string name="bottom_navigation_text">Botton Navigation</string>
+    <string name="swipe_tabs_text">Swipe Tabs</string>
+    <string name="navigation_drawer_text">Navigation Drawer</string>
+    <string name="master_detail_text">MasterDetail</string>
+    <string name="list_superheroes_text">Superheros</string>
+</resources>

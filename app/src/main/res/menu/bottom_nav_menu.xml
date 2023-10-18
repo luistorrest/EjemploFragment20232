@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+    <item
+        android:id="@+id/navigation_batman"
+        android:icon="@drawable/logbatman"
+        android:title="@string/batman_date" />
+
+    <item
+        android:id="@+id/navigation_flash"
+        android:icon="@drawable/logflash"
+        android:title="@string/flash_date" />
+
+    <item
+        android:id="@+id/navigation_superman"
+        android:icon="@drawable/logsuperman"
+        android:title="@string/superman_date" />
+
+    <item
+        android:id="@+id/navigation_wonderwoman"
+        android:icon="@drawable/woman"
+        android:title="@string/wonderwoman_date" />
+    </group>
+</menu>
